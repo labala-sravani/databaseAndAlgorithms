@@ -1,0 +1,6 @@
+Running the C program
+gcc <file_name> -o <file_name>_exec
+then run the exec file
+./<file_name>_exec
+
+The GNU Compiler Collection (GCC) is an optimizing compiler produced by the GNU Project supporting various programming languages, hardware architectures and operating systems.
